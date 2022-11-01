@@ -5,7 +5,7 @@ Maak een component en verantwoord je ontwerp-keuzes
 
 ## Context
 
-Deze leertaak hoort bij sprint 14 Don't Rpeat Yoursel. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze leertaak hoort bij sprint 14 Don't Repeat Yoursel. Dit is een deeltaak die je individueel uitvoert.
 
 In het college [[collegenaam](link)] wordt behandeld ... 
 
