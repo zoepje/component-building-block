@@ -1,5 +1,5 @@
 
-# DOn't Repeat Yourself - Component
+# Don't Repeat Yourself - Component
 
 Maak een component en verantwoord je ontwerp-keuzes
 
