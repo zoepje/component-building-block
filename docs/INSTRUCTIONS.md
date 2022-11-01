@@ -90,10 +90,11 @@ Uitleg..
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
+Focus sprint 16 - De focus van deze sprint ligt op ...
 
 Deze deeltaak hoort bij het gedragscriterium:  
-...
+
+P: Selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.
 
 Deze opdracht is done als:
 
