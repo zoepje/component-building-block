@@ -1,7 +1,7 @@
 
 # Don't Repeat Yourself - Component
 
-Maak een component en verantwoord je ontwerp-keuzes
+Ontwerp en maak een component en verantwoord je ontwerp-keuzes.
 
 ## Context
 
