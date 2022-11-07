@@ -5,88 +5,22 @@ Ontwerp en maak een component en verantwoord je ontwerp-keuzes.
 
 ## Context
 
-Deze leertaak hoort bij sprint 14 Don't Repeat Yoursel. Dit is een deeltaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college Component Building Block wordt behandeld hoe je in Svelte een component maakt en kan importeren in een ander component of pagina. 
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
-
+Je leert hoe je een component kan maken en kan importeren in bestaande code. 
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
+Het maken en toepassen van componenten zit in de bouwfase.
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+* Maak een component aan en importeer deze op de juiste plek(ken) in de code
+* Geef props mee aan het component
+* Maak zonodig gebruik van een <slot> om child elements mee te geven aan het component
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
-
-### Analyseren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Integreren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
 
@@ -98,7 +32,7 @@ Probleemoplossend vermogen: Je selecteert de juiste principes, conventies en bes
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] je een component hebt gemaakt en toepast in de code
+- [ ] je props meegeeft aan het component en gebruikt in de code
+- [ ] je zonodig een <slot> element hebt gebruikt
 
