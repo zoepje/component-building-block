@@ -1,5 +1,5 @@
 
-# Don't Repeat Yourself - Component
+# Don't Repeat Yourself - Component Building Block
 
 Ontwerp en maak een component en verantwoord je ontwerp-keuzes.
 
