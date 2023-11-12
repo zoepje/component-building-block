@@ -29,7 +29,8 @@ Focus sprint 16 - De focus van deze sprint ligt op het ontwikkelen van een robuu
 
 Deze opdracht is done als:
 
-- [ ] je een tot op detailniveau uitgewerkt component hebt ontworpen en ontwikkeld op basis van web standaarden, progressive enhancement, responsive design en
+- [ ] je een component hebt ontworpen en ontwikkeld op basis van web standaarden, progressive enhancement, toegankelijkheid, responsive design en performance
 - [ ] het traject uitgebreid is gedocumenteerd in de wiki.
-- [ ] je nieuw opgedane inzichten in het traject hebt gedocumenteerd, op een aparte pagina in de wiki.
+- [ ] je het component hebt getest op toegankelijkheid, performance en responsive design, en de bevindingen hebt gedocumenteerd in de wiki
+- [ ] je een gebruikerstest hebt gedaan, en de bevindingen hebt gedocumenteerd in de wiki
 
