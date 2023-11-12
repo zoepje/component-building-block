@@ -7,31 +7,29 @@ Ontwerp en maak een component en verantwoord jouw ontwerp-keuzes.
 
 Deze leertaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert.
 
-In het college Component Building Block wordt behandeld hoe je een component ontwerpt en in Sveltekit kunt realiseren. We volgen hierbij de *atomic design* ontwerpstrategie van Brad Frost.
+In het college Component Building Block wordt behandeld hoe je een component ontwerpt en in Sveltekit kunt realiseren. De focus ligt op het ontwerpen en bouwen van een robuust, goed werkend component, waarin de belangen van de eindgebruiker centraal staan.
 
 ## Doel van deze opdracht
 
-Je leert hoe je een detailontwerp en implementatie van een component kunt maken door middel van een beproefde ontwerp en ontwikkelstrategie.
+Je leert hoe je een component ontwerpt en bouwt op basis van web standaarden en de principes van progressive enhancement, toegankelijkheid, responsive design en performance.
 
 ## Werkwijze
 
-Je doorloopt bij deze opdracht alle fasen van de development lifecycle. In de workshop inventariseren we de tools die je tot je beschikking hebt. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
+Je doorloopt bij deze opdracht drie fasen van de development lifecycle. In de workshop behandelen we de web standaarden en principes die je toepast in het component. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
 
-- **Analyseer** een component, onderzoek mogelijke varianten voor jouw component door gebruik te maken van een *morphological chart*.
-- **Ontwerp** een component, maak bij de breakdown schets gebruik van de *atomic design* strategie en splits jouw component op in atomen, moleculen en organismen.
-- **Bouw** het ontwerp, pas daarbij jouw analyse en ontwerp aan waar nodig. Noteer nieuwe inzichten en onderbouw je beslissingen. Gebruik properties en ```<slot/>``` om gegevens en eventuele child-elements mee te geven aan het component.
-- **Integreer** het component in de component library die je als team in de leertaak maakt (optioneel: en publiceer deze als team naar npm).
-- **Test** het component, eventueel geautomatiseerd maar in ieder geval ook met eindgebruikers en documenteer je inzichten.
+- **Ontwerp** een component, maak bij de breakdown schets een drieluik van HTML, CSS en JavaScript. Schets hoe je progressive enhancement en toegankelijkheid toepast in het component
+- **Bouw** het ontwerp, pas daarbij het ontwerp aan waar nodig. Documenteer (nieuwe) inzichten en onderbouw je beslissingen. 
+- **Test** het component op toegankelijkheid, responsive design en performance.
 
-Maak waar nodig een aantal iteraties, we werken gedetaileerd dus dit kunnen er meerdere per week zijn!
+Maak waar nodig een aantal iteraties, je werkt gedetaileerd dus dit kunnen er meerdere per week zijn!
 
 ## Criteria
 
-Focus sprint 16 - De focus van deze sprint ligt op het hergebruik van code en ontwerpelementen.
+Focus sprint 16 - De focus van deze sprint ligt op het ontwikkelen van een robuust, goed werkend component, dat door iedereen te gebruken is.
 
 Deze opdracht is done als:
 
-- [ ] je een tot op detailniveau uitgewerkt component hebt ontworpen en ontwikkeld.
+- [ ] je een tot op detailniveau uitgewerkt component hebt ontworpen en ontwikkeld op basis van web standaarden, progressive enhancement, responsive design en
 - [ ] het traject uitgebreid is gedocumenteerd in de wiki.
 - [ ] je nieuw opgedane inzichten in het traject hebt gedocumenteerd, op een aparte pagina in de wiki.
 
