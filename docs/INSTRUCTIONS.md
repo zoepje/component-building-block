@@ -27,8 +27,6 @@ Fork voor deze opdracht de repo, het is een individuele opdracht waarbij je zelf
 
 ## Criteria
 
-Focus sprint 16 - De focus van deze sprint ligt op het ontwikkelen van een robuust, goed werkend component, dat door iedereen te gebruken is.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt een breakdownschets met uitleg hoe je in  het component responsive design, progressive enhancement, performance en toegankelijkheid toepast 
