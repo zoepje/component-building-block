@@ -16,7 +16,7 @@ Je leert hoe je een component ontwerpt en bouwt op basis van web standaarden en 
 
 ## Werkwijze
 
-Je doorloopt bij deze opdracht de analyse-, ontwerp-, bouw- en tetsfase van de development lifecycle. In de workshop behandelen we de web standaarden en principes die je toepast in het component. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
+Je doorloopt bij deze opdracht de analyse-, ontwerp-, bouw- en testfase van de development lifecycle. In de workshop behandelen we de web standaarden en principes die je toepast in het component. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
 
 Fork voor deze opdracht de repo, het is een individuele opdracht waarbij je zelf de verantwoording voor de code en documentatie draagt. 
 
