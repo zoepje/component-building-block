@@ -1,7 +1,8 @@
 
 # Don't Repeat Yourself - Component Building Block
 
-Ontwerp en maak een component en verantwoord jouw ontwerp-keuzes.
+Ontwerp en bouw een robuust, goed werkend component, waarin de belangen van de eindgebruiker centraal staan.
+
 
 ## Context
 
