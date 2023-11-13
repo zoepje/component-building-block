@@ -31,6 +31,6 @@ Deze opdracht is done als:
 
 - [ ] Je hebt een breakdownschets met uitleg hoe je in  het component responsive design, progressive enhancement, performance en toegankelijkheid toepast 
 - [ ] je hebt een component gebouwd op basis van web standaarden, progressive enhancement, toegankelijkheid, responsive design en performance
-- [ ] je het het component getest op toegankelijkheid, performance en responsive design, en de bevindingen gedocumenteerd in de wiki
+- [ ] je het het component getest op toegankelijkheid, progressive enhancement, performance en responsive design, en de bevindingen gedocumenteerd in de wiki
 - [ ] je hebt een gebruikerstest gedaan, en de bevindingen gedocumenteerd in de wiki
 
