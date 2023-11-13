@@ -16,13 +16,14 @@ Je leert hoe je een component ontwerpt en bouwt op basis van web standaarden en 
 
 ## Werkwijze
 
-Je doorloopt bij deze opdracht drie fasen van de development lifecycle. In de workshop behandelen we de web standaarden en principes die je toepast in het component. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
+Je doorloopt bij deze opdracht de analyse-, ontwerp-, bouw- en tetsfase van de development lifecycle. In de workshop behandelen we de web standaarden en principes die je toepast in het component. Het is de bedoeling dat je een superstrak traject volgens het boekje uitvoert en briljante documentatie voor het betreffende component oplevert.
 
-- **Ontwerp** een component, maak bij de breakdown schets een drieluik van HTML, CSS en JavaScript. Schets hoe je progressive enhancement en toegankelijkheid toepast in het component
-- **Bouw** het ontwerp, pas daarbij het ontwerp aan waar nodig. Documenteer (nieuwe) inzichten en onderbouw je beslissingen. 
-- **Test** het component op toegankelijkheid, responsive design en performance.
+Fork voor deze opdracht de repo, het is een individuele opdracht waarbij je zelf de verantwoording voor de code en documentatie draagt. 
 
-Maak waar nodig een aantal iteraties, je werkt gedetaileerd dus dit kunnen er meerdere per week zijn!
+- **Analyseren** Inventariseer met je team welke componenten je kan maken voor de opdracht van de opdrachtgever, verdeel componenten die jullie gaan maken op basis van complexiteit.
+- **Ontwerpen** Maak een breakdownschets met de HTML, CSS en JS code voo rhet component. Schets hoe je responsive, progressive enhancement, performance en toegankelijkheid toepast in het component.
+- **Bouwen** Maak het component in Sveltekit.
+- **Testen** Test het component regelmatig op toegankelijkheid, responsive design en performance en verwerk de feedack. 
 
 ## Criteria
 
@@ -30,8 +31,8 @@ Focus sprint 16 - De focus van deze sprint ligt op het ontwikkelen van een robuu
 
 Deze opdracht is done als:
 
-- [ ] je een component hebt ontworpen en ontwikkeld op basis van web standaarden, progressive enhancement, toegankelijkheid, responsive design en performance
-- [ ] het traject uitgebreid is gedocumenteerd in de wiki.
-- [ ] je het component hebt getest op toegankelijkheid, performance en responsive design, en de bevindingen hebt gedocumenteerd in de wiki
+- [ ] Je hebt een breakdownschets met uitleg hoe je in  het component responsive design, progressive enhancement, performance en toegankelijkheid toepast 
+- [ ] je hebt een component gebouwd op basis van web standaarden, progressive enhancement, toegankelijkheid, responsive design en performance
+- [ ] je het het component getest op toegankelijkheid, performance en responsive design, en de bevindingen hebt gedocumenteerd in de wiki
 - [ ] je een gebruikerstest hebt gedaan, en de bevindingen hebt gedocumenteerd in de wiki
 
