@@ -1,5 +1,5 @@
 
-# Don't Repeat Yourself - Component Building Block
+# Component Building Block
 
 Ontwerp en bouw voor de opdrachtgever een robuust, goed werkend component, waarin de belangen van de eindgebruiker centraal staan.
 
