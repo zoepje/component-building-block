@@ -35,3 +35,5 @@ Deze opdracht is done als:
 - [ ] je het het component getest op toegankelijkheid, progressive enhancement, performance en responsive design, en de bevindingen gedocumenteerd in de wiki
 - [ ] je hebt een gebruikerstest gedaan, en de bevindingen gedocumenteerd in de wiki
 
+## Bronnen
+[https://cmdmethods.nl/cards/workshop/morphological-chart](https://cmdmethods.nl/cards/workshop/morphological-chart)
