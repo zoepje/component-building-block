@@ -21,7 +21,7 @@ Je doorloopt bij deze opdracht de analyse-, ontwerp-, bouw- en testfase van de d
 Fork voor deze opdracht de repo, het is een individuele opdracht waarbij je zelf de verantwoording voor de code en documentatie draagt. 
 
 - **Analyseren** Inventariseer met je team welke componenten je kan maken voor de opdracht van de opdrachtgever, verdeel componenten die jullie gaan maken op basis van complexiteit.
-- **Ontwerpen** Onderzoek variaties voor jouw component met behulp van een _morphological chart_. Bespreek je ideeen met een docent voordat je verder gaat. Als je een GO hebt gekregen  maak je een breakdownschets met de HTML, CSS en JS code voor het component. Schets hoe je responsive, progressive enhancement, performance en toegankelijkheid toepast.
+- **Ontwerpen** Onderzoek variaties voor jouw component met behulp van een _morphological chart_. Bespreek je ideeen met een docent voordat je verder gaat. Als je een GO hebt gekregen werk je verschillende versie van je componentn uit in Figma. Maak daarna een breakdownschets met de HTML, CSS en JS code voor het component. Schets hoe je responsive, progressive enhancement, performance en toegankelijkheid toepast.
 - **Bouwen** Maak het component in Sveltekit.
 - **Testen** Test het component regelmatig op toegankelijkheid, responsive design en performance en verwerk de feedack. 
 
