@@ -29,6 +29,7 @@ Fork voor deze opdracht de repo, het is een individuele opdracht waarbij je zelf
 
 Deze opdracht is done als:
 
+- [ ] Je hebt verschillende versies van je component in detail uitgewerkt in Figma
 - [ ] Je hebt een breakdownschets met uitleg hoe je in  het component responsive design, progressive enhancement, performance en toegankelijkheid toepast 
 - [ ] je hebt een component gebouwd op basis van web standaarden, progressive enhancement, toegankelijkheid, responsive design en performance
 - [ ] je het het component getest op toegankelijkheid, progressive enhancement, performance en responsive design, en de bevindingen gedocumenteerd in de wiki
