@@ -24,7 +24,7 @@ Review bij andere teams de componenten die vergelijkbaar zijn met de componenten
 
 Decathlon heeft een super uitgebreide styleguide waarin in detail beschreven en gepresenteerd staat hoe de huisstijl moet worden toegepast. Voor het web laten zij verschillende componenten zien, soms zelfs met voorbeeldcode en naamgeving van custom-properties.
 
-Vergelijk de componenten die jullie hebben ontworpen met detzelfde componenten in het [Design-system van Decathlon](https://www.decathlon.design/) (de componenten staan bij digital). Neem tips, tricks en ideeeën van de uitwerking en documentatie op in jullie projectboard.
+Vergelijk de componenten die jullie hebben ontworpen met detzelfde componenten in het [Design-system van Decathlon](https://www.decathlon.design/) (de componenten staan bij digital > component status). Neem tips, tricks en ideeeën van de uitwerking en documentatie op in jullie projectboard.
 
 
 <!-- 
