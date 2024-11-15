@@ -18,20 +18,15 @@ Zet in de Readme van jullie project een link naar jullie Figma file met de ontwe
 
 #### Design review
 
-Review bij andere teams dezelfde componenten als jullie hebben ontworpen. Je moet dus eerst even zoeken welke teams dezelfde componenten gaan maken. 
-Bekijk alle gemaakte variaties van het component-ontwerp in Figma en schrijf issues over de visuele hiërarchie en hoe de _modular scale_ is toegepast.
-
-Review daarna de (breakdown) schetsen voor responsive, performance, toegankelijkheid en progressive enhancement.
+Review bij andere teams de componenten die vergelijkbaar zijn met de componenten die jullie zelf hebben ontworpen. Je moet dus eerst even zoeken welke teams dezelfde componenten maken. Bijvoorbeeld: Wanneer jullie een navigatie, een button en een formulier hebben gemaakt dan gaan jullie opzoek naar  drie soortgelijke componenten bij andere groepjes. Bekijk alle gemaakte variaties van het component-ontwerp in Figma en schrijf issues over de visuele hiërarchie en hoe de _modular scale_ is toegepast. Review daarna de (breakdown) schetsen voor responsive, performance, toegankelijkheid en progressive enhancement. Je doet deze review in de groep en gaat gezamenlijk langs alle componenten. 
 
 <!-- - **Ontwerpen** Onderzoek variaties voor jouw component met behulp van een _morphological chart_. Bespreek je ideeen met een docent voordat je verder gaat. Als je een GO hebt gekregen werk je verschillende versie van je component uit in Figma. Maak daarna een breakdownschets met de HTML, CSS en JS code voor het component. Schets hoe je responsive, progressive enhancement,  performance en toegankelijkheid toepast. -->
 
 #### Design-system Decathlon
 
-Decathlon heeft een super uitgebreide styleguide waarin in detail beschreven en gepresenteerd staat hoe de huisstijl moet worden toegepast. Voor web hebben laten verschillende componenten zien, soms zelfs met voorbeeldcode en naamgeving van custom-properties.
+Decathlon heeft een super uitgebreide styleguide waarin in detail beschreven en gepresenteerd staat hoe de huisstijl moet worden toegepast. Voor het web laten zij verschillende componenten zien, soms zelfs met voorbeeldcode en naamgeving van custom-properties.
 
-Vergelijk de componenten die jullie hebben ontworpen met detzelfde componenten in het [Design-system van Decathlon](https://www.decathlon.design/). (De componenten staan bij digital > component status)
-
-Neem tips, tricks en ideeeën van de uitwerking en documentatie op in jullie projectboard.
+Vergelijk de componenten die jullie hebben ontworpen met detzelfde componenten in het [Design-system van Decathlon](https://www.decathlon.design/) (de componenten staan bij digital). Neem tips, tricks en ideeeën van de uitwerking en documentatie op in jullie projectboard.
 
 
 <!-- 
